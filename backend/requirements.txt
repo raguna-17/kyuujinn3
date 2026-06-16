@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+asyncpg
+python-jose
+argon2-cffi
+passlib[argon2]
+pydantic
+pydantic[email]
+pydantic-settings
+alembic
+python-multipart
+
+pytest
+pytest-asyncio
+pytest-cov
+httpx
