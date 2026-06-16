@@ -1,7 +1,6 @@
 # 求人管理アプリ（Recruiting System）
 
 
-https://kyuujinn3-bakku.onrender.com
 
 ## 概要
 
@@ -29,6 +28,8 @@ https://kyuujinn3-bakku.onrender.com
 
 ## 🚀 Demo
 ## https://www.youtube.com/watch?v=DnQd_b_R2pk
+## https://kyuujinn3-furonto.onrender.com
+
 
 ## 実装した業務フロー
 * 企業の作成・管理
